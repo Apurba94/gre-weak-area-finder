@@ -1,0 +1,1 @@
+window.SK_META = {"name": "gre-weak-area-finder", "title": "GRE Weak Area Finder", "exam": "GRE", "area": "GRE Writing and Planning", "desc": "A short diagnostic across all GRE topics, combined with your results in other apps, to show what to study next.", "content": ["tc.json", "se.json", "gre_reading.json"], "n": 47};
